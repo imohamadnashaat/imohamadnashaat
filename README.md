@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Developer
 -----------------
 
-Backend developer skilled in JavaScript, TypeScript, Node.js, and React for building scalable and dependable applications. with good experience in quality assurance, efficient in project management, server management, and troubleshooting. Dedicated to staying current on new technology and best practices.
+I am a skilled Backend Developer with experience in QA. I have experience building scalable and dependable applications using JavaScript, TypeScript, Node.js, and React. I have a proven ability to work independently and as part of a team, with strong problem-solving and troubleshooting skills. I am dedicated to staying current on new technologies and best practices.
 
 * 🌍  I'm based in Istanbul
 * 🖥️  See my portfolio at [imohamadnashaat.com](http://imohamadnashaat.com)
@@ -13,7 +13,6 @@ Backend developer skilled in JavaScript, TypeScript, Node.js, and React for buil
 * 🤝  I'm open to collaborating on full-stack web development projects. Whether you're building a new website from scratch or enhancing an existing application
 
 ### Skills
-
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -33,7 +32,6 @@ Backend developer skilled in JavaScript, TypeScript, Node.js, and React for buil
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 </p>
 
-
 ### Socials
 
 <p align="left"> 
@@ -41,7 +39,6 @@ Backend developer skilled in JavaScript, TypeScript, Node.js, and React for buil
 <a href="http://www.instagram.com/imohamadnashaat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 <a href="https://www.github.com/imohamadnashaat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
 </p>
-
 
 ### Support Me
 
