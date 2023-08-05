@@ -1,10 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohamad Nashaat
 =======================================================================================================================================
 
-Backend Developer
------------------
-
-I am a skilled Backend Developer with experience in QA. I have experience building scalable and dependable applications using JavaScript, TypeScript, Node.js, and React. I have a proven ability to work independently and as part of a team, with strong problem-solving and troubleshooting skills. I am dedicated to staying current on new technologies and best practices.
+I am a skilled Backend Developer with 2+ years of experience in the tech industry. Proven ability to design, develop, and deploy backend web applications using node.js. Expertise in writing clean, efficient, and maintainable code. Strong problem-solving and debugging skills.
 
 * 🌍  I'm based in Istanbul
 * 🖥️  See my portfolio at [imohamadnashaat.com](http://imohamadnashaat.com)
