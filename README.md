@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohamad Nashaat
 =======================================================================================================================================
 
-I am a skilled Backend Developer with 2+ years of experience in the tech industry. Proven ability to design, develop, and deploy backend web applications using node.js. Expertise in writing clean, efficient, and maintainable code. Strong problem-solving and debugging skills.
+Experienced backend developer with over 2 years in the tech industry, specializing in the development and deployment of efficient web applications using Node.js. Distinguished for crafting maintainable code, offering robust problem-solving skills, and a proven record in backend optimization.
 
 * 🌍  I'm based in Istanbul
 * 🖥️  See my portfolio at [imohamadnashaat.com](http://imohamadnashaat.com)
@@ -37,6 +37,3 @@ I am a skilled Backend Developer with 2+ years of experience in the tech industr
 <a href="https://www.github.com/imohamadnashaat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
 </p>
 
-### Support Me
-
-<a href="https://www.buymeacoffee.com/imohamadnashaat"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
