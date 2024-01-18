@@ -7,8 +7,6 @@
 
 <p align="center">
     <a href="https://imohamadnashaat.com"><img src="https://img.shields.io/website?url=https%3A%2F%2Fimohamadnashaat.com%2F"/></a>
-    <a href="https://www.linkedin.com/in/imohamadnashaat"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-    <a href="https://www.instagram.com/imohamadnashaat"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
 </p>
 
 Experienced backend developer with over 2 years in tech, specializing in Node.js for efficient web app development and deployment. Known for crafting maintainable code, robust problem-solving skills, and backend optimization.
