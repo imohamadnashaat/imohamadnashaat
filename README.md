@@ -10,7 +10,9 @@
     <a href="https://www.linkedin.com/in/imohamadnashaat"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
 </p>
 
-Experienced backend developer with 2+ years in the tech industry. Skilled in architecting scalable backend systems, optimizing performance, and ensuring reliability through effective CI/CD pipelines. Strong background in QA, with a focus on delivering high-quality, maintainable code and robust solutions. Passionate about continuous learning, problem-solving, and collaboration.
+Experienced backend developer with 2+ years in the fast-paced tech industry. Proven ability to architect scalable backend systems, optimize performance, and ensure reliability through effective CI/CD pipelines. Specialize in developing robust backend systems and working with various databases.
+
+Passionate about crafting maintainable code, optimizing system responsiveness, and solving complex problems with elegant solutions. Eager to embrace new technologies, collaborate with diverse teams, and deliver high-quality software.
 
 - 🔭 Currently working on: (JS - TS - Python)
 - 🤝 Open to collaborating on full-stack web projects—building new sites or enhancing existing apps
